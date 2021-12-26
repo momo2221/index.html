@@ -1,0 +1,12 @@
+body
+{
+    background-color :rgb(205, 202, 223);
+}
+p{
+    color:black;
+    height:150px;
+    font-style:bold ;
+}
+p{
+    table-layout:fixed;
+}
